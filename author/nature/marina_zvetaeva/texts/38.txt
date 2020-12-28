@@ -1,0 +1,26 @@
+
+					Белая берёза
+Под моим окном
+Принакрылась снегом,
+Точно серебром.
+На пушистых ветках
+Снежною каймой
+Распустились кисти
+Белой бахромой.
+И стоит береза
+В сонной тишине,
+И горят снежинки
+В золотом огне.
+А заря, лениво
+Обходя кругом,
+обсыпает ветки
+Новым серебром.
+
+.analiz { width: 234px; height: 60px; }
+@media(min-width: 320px) { .analiz { width: 300px; height: 250px; } }
+@media(min-width: 365px) { .analiz { width: 336px; height: 280px; } }
+@media(min-width: 728px) { .analiz { width: 728px; height: 90px; } }
+
+
+
+(adsbygoogle = window.adsbygoogle 

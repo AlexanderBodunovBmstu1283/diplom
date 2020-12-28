@@ -1,0 +1,35 @@
+фентези:fentezi_realism:fentezi:realism
+философские:filosofic_light:filosofic:light
+о войне:military:military:no_section
+сюр:mistics:mistics:no_section
+память о юности:nostalgic:nostalgic:no_section
+патриотические:patriotic:patriotic:no_section
+о революции:piece_revolution:revolution:no_section
+о политике:politics:politics:no_section
+о религии:religion_ateistic:religion:ateistic
+для детей:to_child:to_child:no_section
+эпос:lirics:epos:lirics
+о природе:nature:nature:no_section
+стихи о женщине:woman:woman:no_section
+о женщине:woman:woman:no_section
+о женщине:woman:woman:no_section
+Константин Симонов:simonov:simonov:no_section
+Вероника Тушнова:tushnova:tushnova:no_section
+Омар Хаян:hayan:hayan:no_section
+Некрасов:nekrasov:nekrasov:no_section
+Брюсов:brusov:brusov:no_section
+Юлия Друнина:drunina:drunina:no_section
+Роберт Рожденственский:robert:robert:no_section
+о весне:spring:spring:no_section
+о семье:family:family:no_section
+о России:russian:russian:no_section
+о дедушке:grandpa:grandpa:no_section
+про дедушку:grandfather:grandfather:no_section
+шуточные:humoristic:humoristic:no_section
+шуточные:humor_poems:humor_poems:no_section
+юмористические:humor_russtish:humor_russtish:no_section
+Юмoристические:humor_russtish_poetov:humor_russtish_poetov:no_section
+цитаты:shitate:shitate:no_section
+Юмористические:humor_russkix_poetov_:humor_russkix_poetov_:no_section
+юм:hum:hum:no_section
+о семье:family:family:no_section

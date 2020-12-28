@@ -1,0 +1,13 @@
+to_child:дл€ детей
+mistics:сюр
+lirics:лирические
+patriotic:патриотические
+politics:о политике
+nostalgic:пам€ть о юности
+religion_ateistic:религиозные
+fentezi_realism:фентези
+woman:о женщине
+spring:о весне
+family:о семье
+grandfather:про дедушку
+humor_russkix_poetov_:ёмористические
